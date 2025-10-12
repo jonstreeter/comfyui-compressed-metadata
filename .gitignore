@@ -1,0 +1,22 @@
+﻿# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Visual Studio cache (this is causing your error)
+.vs/
+*.vsidx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
